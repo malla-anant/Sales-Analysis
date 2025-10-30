@@ -25,8 +25,11 @@ Phase 2: Interactive Dashboard
 - Enabled slicing and filtering by time, product, region, and channel.
 
 Created three analytical pages:
+
 Page 1: Performance Summary
+
 Page 2: Customer Segmentation
+
 Page 3: Revenue Scenarios
 
 🧹 Data Preprocessing
