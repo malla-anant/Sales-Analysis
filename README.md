@@ -143,15 +143,25 @@ Align regional strategies with profit goals.
 The Power BI dashboard empowers stakeholders to interactively explore sales performance and make informed business decisions in real time.
 
 📂 Repository Structure
+
 Sales-Analysis/
+
 │
+
 ├── data/                     # Cleaned and processed datasets
+
 ├── notebooks/                # EDA notebooks (Python)
+
 ├── dashboard/                # Power BI file (.pbix)
+
 ├── reports/                  # PPT and summary report
+
 ├── images/                   # Dashboard screenshots
+
 ├── README.md                 # Project documentation
+
 └── LICENSE
+
 
 👨‍💻 Author
 Malla Anant
